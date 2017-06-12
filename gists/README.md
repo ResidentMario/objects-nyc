@@ -1,0 +1,1 @@
+The `index.html` pages can be served via a webserver (in my case, the one integrated directly into PyCharm/WebStorm). The JS code is written in `index.js` and bundled to `bundle.js` via `browserify index.js -o bundle.js -t [ babelify --presets [ es2015 ] ]` on the command line.

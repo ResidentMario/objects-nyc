@@ -1,0 +1,1 @@
+Experimentation shows that Leaflet performance starts to drag once you're in the thousands of markers.
